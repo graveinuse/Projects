@@ -221,19 +221,6 @@ The calculator handles various error scenarios:
 3. Select source branch (main/master)
 4. Your calculator will be available at `https://username.github.io/repository-name/calculator.html`
 
-### Netlify
-1. Drag and drop your project folder to Netlify
-2. Get instant deployment with custom domain support
-
-### Vercel
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel --name web-calculator
-```
-
 ### Local Development Server
 ```bash
 # Python 3
@@ -281,13 +268,6 @@ Contributions are welcome! Here's how you can help:
 - Test on both desktop and mobile devices
 - Update README if you add new features
 
-## 📱 Mobile App Version
-
-Interested in a mobile app version? This web calculator can be easily converted to:
-- **React Native App**: For iOS and Android
-- **Electron App**: For desktop applications
-- **Progressive Web App**: For app-like experience in browsers
-
 ## 🧪 Testing
 
 ### Manual Testing Checklist
@@ -323,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 SATYA PRANEETH MALLIPAM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -339,10 +319,10 @@ copies or substantial portions of the Software.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- GitHub: [@graveinuse](https://github.com/graveinuse)
+- Email: smallipa@kent.edu
+- Portfolio: 
+- LinkedIn: 
 
 ## 🙏 Acknowledgments
 
@@ -353,18 +333,6 @@ copies or substantial portions of the Software.
 - **Testing**: Cross-browser compatibility testing tools
 - **Community**: Open-source contributors and feedback providers
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/web-calculator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/web-calculator?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/web-calculator)
-![GitHub license](https://img.shields.io/github/license/yourusername/web-calculator)
-![Website status](https://img.shields.io/website?url=https%3A%2F%2Fyourusername.github.io%2Fweb-calculator)
-
 ---
 
 ⭐ **Star this repository if you found it helpful!**
-
-💡 **Have suggestions or found a bug?** [Open an issue](https://github.com/yourusername/web-calculator/issues/new)
-
-🔗 **Try the live demo**: [Web Calculator Demo](https://yourusername.github.io/web-calculator/calculator.html)
